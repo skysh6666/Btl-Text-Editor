@@ -1,0 +1,25 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  gravity="left";
+  orientation="vertical";
+  layout_height="fill";
+  {
+    TextView;
+    text="BTE-Btl Text Editor";
+    textSize="25";
+  };
+  {
+    LinearLayout;
+    {
+      Button;
+      id="1";
+      text="教程";
+    };
+    {
+      Button;
+      id="2";
+      text="HEX-16进制转换（测试）";
+    };
+  };
+};
