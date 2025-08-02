@@ -12,5 +12,6 @@ description=""
 debugmode=false
 user_permission={
   "INTERNET",
+ "MANAGE_EXTERNAL_STORAGE",
  "WRITE_EXTERNAL_STORAGE"
 }
