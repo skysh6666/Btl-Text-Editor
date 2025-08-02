@@ -16,3 +16,8 @@ This is also a crucial point, this software mainly uses the technology of conver
 # Copyright
 在我的项目当中，凡是引用他人原创的代码我都会标注非原创，如果有来源的话我会标注这个人的联系方式或者是来源
 In my project, I will mark the original code of others as non-original. If there is a source, I will mark the contact information or source of this person.
+# Manalua
+在我的项目中是以这一款编译器作为平台运行的
+这一款编译器的下载方式只有加他们的官方qq群
+他们的qq群是718571545
+In my project, this compiler is used as a platform to run. \n The only way to download this compiler is to add their official QQ group. \n Their Qq group is 718571545.
