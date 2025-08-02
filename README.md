@@ -13,3 +13,6 @@ No problem,this is I have to construct, The all app's development is based on lu
 # hex
 这也是至关重要的一点，这款软件主要就是利用了将字符串转化为16进制的技术，进而能够完成对地图战役等资源文件的解析，进而能够进行编辑和更改
 This is also a crucial point, this software mainly uses the technology of converting strings into hexadecimal, and then can complete the parsing of resource files such as maps and campaigns, and then can edit and change.
+# Copyright
+在我的项目当中，凡是引用他人原创的代码我都会标注非原创，如果有来源的话我会标注这个人的联系方式或者是来源
+In my project, I will mark the original code of others as non-original. If there is a source, I will mark the contact information or source of this person.
