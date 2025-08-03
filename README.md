@@ -21,3 +21,6 @@ In my project, I will mark the original code of others as non-original. If there
 这一款编译器的下载方式只有加他们的官方qq群
 他们的qq群是718571545
 In my project, this compiler is used as a platform to run. \n The only way to download this compiler is to add their official QQ group. \n Their Qq group is 718571545.
+# feedback
+欢迎大家前来反馈，邮箱:skysh66666@gmail.com
+Welcome to come to feedback, email: skysh66666@gmail.com.
